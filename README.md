@@ -97,6 +97,25 @@ El modelo presenta un error absoluto medio de aproximadamente **1.71 puntos** y 
 
 Los resultados indican que las características analizadas aportan información sobre la calidad, pero no son suficientes por sí solas para predecir con alta precisión el puntaje sensorial.
 
+###  Evaluación visual del modelo
+
+La comparación entre los valores reales y predichos muestra que el modelo tiende a concentrar sus estimaciones alrededor de los puntajes medios y presenta mayores dificultades para representar valores extremos.
+
+![Puntaje real vs. puntaje predicho](real_vs_predicho.png)
+###  Visualizaciones principales
+
+#### Distribución del puntaje de calidad
+
+La mayor parte de las evaluaciones se concentra alrededor de los 80–85 puntos, aunque se observa una mayor extensión hacia los puntajes bajos.
+
+![Distribución del puntaje de calidad](histograma_calidad.png)
+
+#### Identificación de valores atípicos
+
+El diagrama de cajas permite identificar valores atípicos, principalmente en los puntajes inferiores. Estos valores se conservaron debido a que no existe evidencia suficiente para considerarlos errores.
+
+![Boxplot del puntaje de calidad](boxplot_calidad.png)
+
 ## Aplicación profesional
 
 Desde la Ingeniería Química, este tipo de análisis puede aplicarse al control de calidad de materias primas y procesos.
