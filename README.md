@@ -120,6 +120,12 @@ Además, los resultados del modelo muestran la importancia de evaluar críticame
 - `Proyecto_Calidad_Cafe.ipynb`: notebook con el desarrollo completo del análisis.
 - `coffee_quality_limpio.csv`: conjunto de datos preparado utilizado durante el proyecto.
 - `README.md`: documentación general del proyecto.
+  
+### Fuente de los datos
+
+Los datos utilizados provienen del dataset **Coffee Quality Institute Reviews (May 2023)**, publicado en Kaggle y basado en evaluaciones del Coffee Quality Institute (CQI).
+
+🔗 [Consultar dataset original en Kaggle](https://www.kaggle.com/datasets/erwinhmtang/coffee-quality-institute-reviews-may2023)
 
 ## Autores
 
