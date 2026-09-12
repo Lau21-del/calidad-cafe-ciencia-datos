@@ -61,7 +61,7 @@ También se analizaron relaciones entre diferentes características y el puntaje
 | Variable | Correlación con Total_Cup_Points |
 |---|---:|
 | Altitude | 0.200 |
-| Moisture | -0.112 |
+| Moisture (Humedad) | -0.112 |
 | Category One Defects | -0.150 |
 | Category Two Defects | -0.299 |
 
